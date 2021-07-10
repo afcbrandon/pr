@@ -14,9 +14,19 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "direction": "left",
-      "offset": -49,
+      "direction": "up",
+      "offset": 4,
       "map": "MAP_RUSTBORO_CITY"
+    },
+    {
+      "direction": "down",
+      "offset": 0,
+      "map": "MAP_EVER_GRANDE_CITY"
+    },
+    {
+      "direction": "right",
+      "offset": -6,
+      "map": "MAP_ROUTE112"
     }
   ],
   "object_events": [

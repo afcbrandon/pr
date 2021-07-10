@@ -19,9 +19,9 @@
       "map": "MAP_ROUTE118"
     },
     {
-      "direction": "right",
-      "offset": 0,
-      "map": "MAP_FORTREE_CITY"
+      "direction": "up",
+      "offset": 6,
+      "map": "MAP_PETALBURG_CITY"
     }
   ],
   "object_events": [

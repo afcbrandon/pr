@@ -20,12 +20,7 @@
     },
     {
       "direction": "right",
-      "offset": 54,
-      "map": "MAP_ROUTE111"
-    },
-    {
-      "direction": "down",
-      "offset": 15,
+      "offset": 36,
       "map": "MAP_RUSTBORO_CITY"
     }
   ],
